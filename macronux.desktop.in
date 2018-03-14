@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Macronux
+_Comment=Macronux application
+Categories=GNOME;Utility;
+Exec=macronux
+Icon=macronux
+Terminal=false
+Type=Application

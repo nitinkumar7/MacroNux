@@ -1,0 +1,9 @@
+
+(rhythmbox:2474): Gtk-CRITICAL **: gtk_css_provider_load_from_path: assertion 'path != NULL' failed
+
+(rhythmbox:2474): GLib-GObject-CRITICAL **: object SoupServer 0x1f53290 finalized while still in-construction
+
+(rhythmbox:2474): GLib-GObject-CRITICAL **: Custom constructor for class SoupServer returned NULL (which is invalid). Please use GInitable instead.
+
+(rhythmbox:2474): Gtk-WARNING **: mnemonic "s" wasn't removed for widget (0x18c3d50)
+Unable to open ~/.mtpz-data for reading, MTPZ disabled.

@@ -1,0 +1,3 @@
+project = macronux
+version = 12.08.1
+template = ubuntu-application
